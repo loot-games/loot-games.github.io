@@ -1,6 +1,6 @@
 {
-  "name": "2048 Pocket",
-  "short_name": "2048 Pocket",
+  "name": "Loot 2048",
+  "short_name": "Loot 2048",
   "description": "A simple, friendly number puzzle built for quick mobile play.",
   "start_url": ".",
   "scope": ".",
